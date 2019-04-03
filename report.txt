@@ -1,0 +1,5 @@
+Timestamp: 2018-07-01 14:57:43
+Unique Google IDs retrieved:		3149
+Deduplicated against itself:		3130
+Deduplicated against EndNote:		1933
+

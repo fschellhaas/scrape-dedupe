@@ -1,0 +1,4 @@
+Timestamp:	2018-06-25 / 11-26-32
+Source URL:	https://scholar.google.com/scholar?cites=8944513168499971421
+Lower bound:	1993 and earlier
+Upper bound:	2018 and later
